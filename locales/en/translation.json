@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Home"
+  },
+  "en": "EN",
+  "zh": "CN",
+  "row": {
+    "t1": "Meta financial payment ecology",
+    "t2": "NFT trading platform supported by Meta Finance",
+    "t3": "MetaPay is a safe and efficient Meta financial payment ecosystem based on the Ethereum Layer 2 expansion protocol developed by genius blockchain technology geeks. The main direction is cross-chain payment and ecological construction of virtual assets,including decentralized payment , pledge, liquidity mining, NFTaggregator, etc",
+    "bt1": "VIDEO",
+    "bt2": "WHITEPAPER"
+  },
+  "row2": {
+    "t1": "The WAS lending serviceMetaPay uses a highly scalable payment protocol based on Ethereum layer2.The decentralized networki sprovidedbyth eblockchain smart contract,and the smart contractfunction is used to realizeinstant payment across thenetwork.",
+    "t2": "Meta NFT aims to build theworld's largest NFT asset andfinancial derivatives tradingplatform with the richestecology and the strongesttechnical strength.",
+    "t3": "MetaPay adopts the method of on-chain governance. Participants can research and formulate proposals, then vote on the proposals through the blockchain, and finally count the votingresults. Initiating proposalsand participating in voting will be rewarded."
+  },
+  "row3": {
+    "t1": "Two-way payment channel",
+    "t2": "Lightning Network",
+    "t3": "Blockchain arbitration mechanism"
+  },
+  "row4": {
+    "t1":"Meta NFT aims to build the world's largest NFT asset and financial derivatives trading platform with the richest ecology and the strongest technical strength",
+    "t2_1":"Ownership",
+    "t2_2":"Transferability",
+    "t2_3":"Authenticity",
+    "t2_4":"Transferability"
+  },
+  "row5": {
+    "t1": "With the aid of the DAO organizational structure, a fair and efficient ecological construction framework will be established.",
+    "t2": "Planning and Proposals",
+    "t3": "Release and Voting",
+    "t4": "Feasibility Analysis",
+	  "t5": "Execution"
+  },
+  "row6": {
+    "t1": "Mep is the native governance token of MetaPay. As a decentralized autonomous organization, MetaPay advocates decentralized governance and community power",
+    "t2": "Total of issuance",
+    "t3":"Mep Token"
+  },
+  "row7": {
+    "t1": "Roadmap"
+  },
+  "row8": {
+    "t1": "Subscribe To Our Newsletter",
+    "t2": "Want to get the latest news about MetaPay, you can provide your name and email, we will contact you as soon as possible",
+    "t3": "Your Name",
+    "t4": "Your Email",
+	"t5": "SUBSCRIBE"
+  },
+  "row9": {
+	  "t1":"Contact us",
+	  "t2":"Navigator",
+	  "t3":"Latest news"
+  },
+  "row10": {
+		"t1":"Scalability",
+		"t2":"Adding a participant/node wil increase the overall network performance.",
+		"t3":"Availability",
+		"t4":"Users need to stay online once within a specified period of time",
+		"t5":"Liquidity",
+		"t6":"The two parties involved in thetransaction and the intermediatenodes need to beta large amount of funds on the Layer 1."
+	},
+  "row11": {
+		"t1":"On-chain Governance",
+		"t2":"Exchange Intermediary",
+		"t3":"NFT Issuing",
+		"t4":"Repurchase & Burning",
+		"t5":"Reward",
+		"t6":"Gas Fee"
+	},
+  "row12": {
+		"t1":"Ownership",
+		"t2":"Transferability",
+		"t3":"Authenticity",
+		"t4":"Uniqueness"
+	}
+}
