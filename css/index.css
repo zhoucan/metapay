@@ -84,6 +84,10 @@ p {
   border-color: transparent;
   z-index: 3;
 }
+.container {
+  position: relative;
+  z-index: 2;
+}
 .bg {
   height: 1209px;
   width: 100%;
@@ -97,7 +101,7 @@ p {
 }
 .bg1 {
   background-color: #3970f8;
-  height: 200px;
+  height: 300px;
   width: 100%;
   position: absolute;
   top: 0;
@@ -224,9 +228,30 @@ p {
 footer .row .col-md-10 {
   text-align: center;
 }
+.navbar-default {
+  border-radius: 0;
+  transition: .3s;
+}
 .navbar-default .navbar-toggle {
   background-color: #fff;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color:#3970f8;
+}
+.sticky {
+  left: 0;
+  margin: auto;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  box-shadow: 0 0 60px 0 rgba(0, 0, 0, .07);
+  z-index: 9999;
+  -webkit-animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
+  animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
+  -webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
+  background: #3970f8;
+  transition: .3s;
+}
+.sticky.navbar-default {
+  padding-top: 0;
 }

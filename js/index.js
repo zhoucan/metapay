@@ -8,6 +8,7 @@ $(".Nav_MetaPay").click(function () {
     },
     { duration: 500, easing: "swing" }
   );
+  return false
 });
 $(".Nav_MetaNFT").click(function () {
   $("html, body").animate(
@@ -16,6 +17,7 @@ $(".Nav_MetaNFT").click(function () {
     },
     { duration: 500, easing: "swing" }
   );
+  return false
 });
 $(".Nav_MetaDAO").click(function () {
   $("html, body").animate(
@@ -24,6 +26,7 @@ $(".Nav_MetaDAO").click(function () {
     },
     { duration: 500, easing: "swing" }
   );
+  return false
 });
 $(".submit_btn").on("click", function () {
   var username = $(".username_input").val();
