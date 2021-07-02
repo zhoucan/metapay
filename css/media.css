@@ -1,0 +1,28 @@
+@media screen and (min-width: 768px) {
+  .navbar-nav > li > a {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .container {
+    width: 1280px;
+  }
+  .item_1 {
+    display: flex;
+  }
+  .item_1 > div {
+    display: flex;
+    
+  }
+  .item_1 > div > div {
+    flex: 1;
+  }
+  .Subscribe {
+    background: url('../image/cc1.jpg') no-repeat center center;
+    background-size: 100% 100%;
+  }
+  footer .row .col-md-10 {
+      text-align: left!important;
+  }
+}
