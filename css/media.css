@@ -15,7 +15,10 @@
     display: flex;
     
   }
+<<<<<<< HEAD
   
+=======
+>>>>>>> 29b88739dcc86ae3e35bd5ac2847f5816420d6d9
   .item_1 > div > div {
     flex: 1;
   }
